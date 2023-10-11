@@ -2,7 +2,7 @@
 
     require_one 'funciones.php';
 
-    $text = 'Este texto se tiene que imprimir';
+    $texto = 'Este texto se tiene que imprimir';
     imprimeTexto($texto);
 
     $num1=5;$num2=3;
