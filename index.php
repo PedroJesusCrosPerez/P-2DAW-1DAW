@@ -1,6 +1,6 @@
 <?php
 
-    require_one 'funciones.php';
+    require_once 'funciones.php';
 
     $texto = 'Este texto se tiene que imprimir';
     imprimeTexto($texto);
